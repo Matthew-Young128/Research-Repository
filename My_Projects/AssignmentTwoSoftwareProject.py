@@ -143,4 +143,4 @@ if __name__ == "__main__":
     help_desk = HelpDeskTicketSystem()
     help_desk.run()
 
-#
+#In this HelpDeskTicketSystem project, several design principles and patterns are evident. The use of a class, encapsulating ticket-related functionalities, adheres to the Object-Oriented Programming (OOP) design principle, promoting code organization and modularity. The implementation of an initialization method (__init__) initializes the system's state, aligning with the Constructor design pattern. Additionally, the program employs the Command design pattern in the run method, creating an interactive loop where user choices trigger specific actions. The separation of concerns is demonstrated through methods like submit_ticket and respond_to_ticket, adhering to the Single Responsibility Principle. Overall, the project showcases a blend of OOP principles and design patterns, enhancing maintainability and readability.

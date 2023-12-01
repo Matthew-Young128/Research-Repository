@@ -1,6 +1,6 @@
 #for this activity I was practicing manipulating strings
 
-
+#Challenge 1 prompted me to create a program that takes user input for a class size and each student's name, then swaps the case of each name and displays the result. In Challenge 2, I crafted a program that replaces spaces with dashes in a user-inputted sentence. Challenge 4 involved randomly picking a character from a string and inserting it between every character in that string. Lastly, Challenge 3 led to a program that reverses the letters in a stored string. These exercises enhanced my skills in user input, string manipulation, and randomization, providing practical knowledge for future Python projects.
 
 import random
 

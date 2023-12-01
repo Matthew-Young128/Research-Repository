@@ -1,5 +1,8 @@
 #for this exercise i was working on numeric types in python
 
+
+#In these Python exercises, I learned to calculate the area of a circle, perform arithmetic operations with variables, and work with complex numbers. These skills are fundamental for various applications, including scientific computing and data analysis. I can apply these concepts to solve mathematical problems and handle numeric data efficiently in future Python projects.
+
 #Calculate area of circle with radius 6. You should store radius in variable 'r' and 'area' in variable area. Display area of circle and data type of both variables 'r' and 'area'. 
 # Calculate area of a circle with radius 6
 import math

@@ -1,5 +1,8 @@
 #this was some more practice i did in python dictionaries
 
+#In Challenge 1, I added a new occupation to an individual's information in a stored dictionary. Challenge 2 involved merging two dictionaries, combining their key-value pairs. Challenge 4 calculated the sum of integer values in a stored dictionary using the sum() function. Lastly, Challenge 6 removed entries with keys of length 2 from a stored dictionary, resulting in a filtered dictionary. These exercises deepened my understanding of dictionary manipulation, merging, and summation, enhancing my skills for future Python projects.
+
+
 # Challenge 1: Add a dictionary item to a stored dictionary
 
 # Stored dictionary
